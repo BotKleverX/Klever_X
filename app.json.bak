@@ -1,10 +1,10 @@
 {
-  "name": "KᒪEᐯEᖇ﴾ᗷOT﴿𖥖",
-  "website": "https://github.com/mahmoud-Klever",
+  "name": "TheMystic-Bot-MD",
+  "website": "https://github.com/BrunoSobrino",
   "description": "Subscribete a The Shadow Borkers - Bot (≧▽≦)",
-  "repository": "https://github.com/mahmoud-Klever/Klever-bot",
-  "logo": "https://raw.githubusercontent.com/mahmoud-Klever/Klever-bot/master/src/pictures/heroku-icon.jpg",
-  "success_url": "https://github.com/mahmoud-Klever/Klever-bot",
+  "repository": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+  "logo": "https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/pictures/heroku-icon.jpg",
+  "success_url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
   "keywords": [
     "nodejs",
     "heroku",
@@ -22,7 +22,7 @@
     "whatsapp-md",
     "themysticbot",
     "themystic-bot",
-    "Klever-bot"],
+    "themystic-bot-md"],
   "image": "heroku/nodejs",
   "buildpacks": [
     {
